@@ -4,12 +4,12 @@ Welcome to my cloud computing internship project repository. This repository hos
 
 ---
 
-## Project Dashboard & Submission Documents
+##  Project Dashboard & Submission Documents
 
 | Task Number | Project Title | Official Submission Document | Live Deployment |
 | :---: | :--- | :---: | :---: |
-| **01** | **Deploy a Static Website on AWS S3** | [ Task1_Submission.pdf](./Task1_Submission.pdf) | [ View Live Site](http://praveena-task1.s3-website.ap-south-2.amazonaws.com) |
-| **02** | Deploy a Virtual Machine & Install Webserver | ⏳ Pending | ⏳ Pending |
-| **03** | Create a Serverless Function(AWS Lambda)/(Cloud Function)  | ⏳ Pending | ⏳ Pending |
-| **04** | Deploy a Docker container on Cloud VM | ⏳ Pending | ⏳ Pending |
+| **01** | **Deploy a Static Website on AWS S3** | [📄 Task1_Submission.pdf](./Task1_Submission.pdf) | [🌐 View Live Site](http://praveena-task1.s3-website.ap-south-2.amazonaws.com) |
+| **02** | **Deploy a Virtual Machine & Install Web Server** | [📄 Task2_Submission.pdf](./Task2_Submission.pdf) | [🌐 View Live Page](http://16.112.159.131) |
+| **03** | *Upcoming Project* | ⏳ Pending | ⏳ Pending |
+| **04** | *Upcoming Project* | ⏳ Pending | ⏳ Pending |
 
